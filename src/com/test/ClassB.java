@@ -6,4 +6,8 @@ public class ClassB {
 	{
 		System.out.println("HelloB");
 	}
+	void hello3()
+	{
+		System.out.println("HelloB");
+	}
 }
