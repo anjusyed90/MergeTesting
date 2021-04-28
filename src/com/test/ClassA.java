@@ -9,6 +9,11 @@ public class ClassA {
 	{
 		System.out.println("PrintA");
 	}
+	
+	void newMethod()
+	{
+		System.out.println("Hello new method");
+	}
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
